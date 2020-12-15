@@ -5,3 +5,4 @@ If  a student fails to get his hall ticket on the semester end examination day ,
 
 Solution : 
 To solve this problem we have developed a prototype kind of platform where a student need to just enter the hall ticket number and then the hall ticket will be displayed and he/she can go and get it printed.
+
